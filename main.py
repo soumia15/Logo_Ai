@@ -1,1 +1,2 @@
-print('I love python')
+print('I love python') 
+name = input("What's your name ")
